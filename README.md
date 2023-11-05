@@ -1,5 +1,5 @@
 # About Me
-Hello, I'm Viktor Asenov, a 16-year-old fullstack developer from Bulgaria. I've been on an exciting coding journey for the past four years, honing my skills and passion for technology. This GitHub repository represents my latest projects, which combine my expertise in a range of technologies, including HTML, CSS, JavaScript, Java, C#, React, Node.js, Spring, Thymeleaf, MongoDB and MySQL.
+Hello, I'm Viktor Asenov, a 16-year-old fullstack developer from Bulgaria. I've been on an exciting coding journey for the past four years, honing my skills and passion for technology. My GitHub repositories represent my latest projects, which combine my expertise in a range of technologies, including HTML, CSS, JavaScript, Java, C#, React, Node.js, Spring, Thymeleaf, MongoDB and MySQL.
 
 As a young developer, I'm enthusiastic about exploring new frontiers in coding and creating innovative solutions. My projects are a testament to my dedication and the knowledge I've gained over the years.
 
